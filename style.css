@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+.card{
+    margin: 10px;
+    font-size: 15px;
+}
+.card-text{
+    font-style: italic;
+    font-size: 15px;
+}
+.card a{
+    text-decoration: none;
+}
