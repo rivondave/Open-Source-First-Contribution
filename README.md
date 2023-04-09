@@ -110,4 +110,4 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://rivondave.github.io/Open-Source-First-Contribution/)
+Visit the [site](https://rivondave.github.io/Open-Source-First-Contribution/) and you should see your information
